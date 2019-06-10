@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+Home Invest has given many of us a fair amount of annoyance. But we're enough to organize ourselves a bit. Let's keep track of the issues that arise in the building and the ideas we have to make life here more enjoyable. Below are two categories: Issues and Ideas. Add issues and ideas to the boards with the forms linked below
 
-You can use the [editor on GitHub](https://github.com/pascalwhoop/ourhorizon/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<a href="https://airtable.com/invite/l?inviteId=invZl5HmlKug2sxXM&inviteToken=171c37c31a38cdd407611a360d5c4f92c8b72341c2e33cc01dfc7fd528421c7a" class="button">Join the discussion</a>
+## Contents
 
-### Markdown
+- [issues](#issues)
+- [ideas](#ideas)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Issues
 
-```markdown
-Syntax highlighted code block
+<a href="https://airtable.com/shrW34X5dRtrKsSyO" class="button">New issue?</a>
 
-# Header 1
-## Header 2
-### Header 3
+<iframe class="airtable-embed" src="https://airtable.com/embed/shrHXIkWklooqFG2v?backgroundColor=blue&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="900" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
-- Bulleted
-- List
+## Ideas
+<a href="https://airtable.com/shr2xG4hIn6druGhV" class="button">New idea?</a>
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/pascalwhoop/ourhorizon/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<iframe class="airtable-embed" src="https://airtable.com/embed/shrB9cJ9T6CANuq5L?backgroundColor=blue&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="900" style="background: transparent; border: 1px solid #ccc;"></iframe>

@@ -17,3 +17,14 @@ Home Invest has given many of us a fair amount of annoyance. But we're enough to
 <a href="https://airtable.com/shr2xG4hIn6druGhV" class="button">New idea?</a>
 
 <iframe class="airtable-embed" src="https://airtable.com/embed/shrB9cJ9T6CANuq5L?backgroundColor=blue&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="900" style="background: transparent; border: 1px solid #ccc;"></iframe>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-55919824-8"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-55919824-8');
+</script>
+
